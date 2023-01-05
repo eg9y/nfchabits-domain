@@ -6,6 +6,10 @@
           appID: "83PBK2ACHB.random1.org.NFCHabits",
           paths: ["*"],
         },
+        {
+          appID: "83PBK2ACHB.com.com.example.egan.NFCTagReader",
+          paths: ["*"],
+        },
       ],
     },
   }
