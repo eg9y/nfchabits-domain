@@ -1,0 +1,11 @@
+{
+    applinks: {
+      apps: [],
+      details: [
+        {
+          appID: "83PBK2ACHB.random1.org.NFCHabits",
+          paths: ["*"],
+        },
+      ],
+    },
+  }
